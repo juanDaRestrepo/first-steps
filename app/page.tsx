@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex flex-col items-center p-24">
       <span className='text-5xl'>Hello world</span>
 
-      <Link href={'/about'}>About Page</Link>
+      <Link href={'/about'}>About Pageeeee</Link>
     </main>
   )
 }
